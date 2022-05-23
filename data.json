@@ -1,0 +1,51 @@
+[{
+		"class": "Software Engineering",
+		"assignment": "Implement Microservice",
+		"due": "2022/01/01"
+	},
+	{
+		"class": "Programming",
+		"assignment": "shell script",
+		"due": "2023/05/01"
+	},
+	{
+		"class": "Science",
+		"assignment": "dissect frog",
+		"due": "2020/11/21"
+	},
+	{
+		"class": "Software Engineering",
+		"assignment": "write shell program",
+		"due": "2022/02/28"
+	},
+	{
+		"class": "Programming",
+		"assignment": "create operating system",
+		"due": "2022/01/01"
+	},
+	{
+		"class": "Programming Design",
+		"assignment": "rewrite MacOS",
+		"due": "2020/11/21"
+	},
+	{
+		"class": "Programming",
+		"assignment": "publish",
+		"due": "2022/02/28"
+	},
+	{
+		"class": "Software Engineering",
+		"assignment": "hack into pentagon",
+		"due": "2022/01/01"
+	},
+	{
+		"class": "Science",
+		"assignment": "study turtle shell",
+		"due": "2022/05/18"
+	},
+	{
+		"class": "Software for Mobile",
+		"assignment": "publish to App Store",
+		"due": "2020/11/21"
+	}
+]
