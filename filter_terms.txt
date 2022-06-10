@@ -1,22 +1,2 @@
-[
-   {
-      "class": "software engineering",
-      "assignment": "implement microservice",
-      "due": "2022/01/01"
-   },
-   {
-      "class": "software engineering",
-      "assignment": "write shell program",
-      "due": "2022/02/28"
-   },
-   {
-      "class": "software engineering",
-      "assignment": "hack into pentagon",
-      "due": "2022/01/01"
-   },
-   {
-      "class": "software for mobile",
-      "assignment": "publish to app store",
-      "due": "2020/11/21"
-   }
-]
+name
+heller

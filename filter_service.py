@@ -1,6 +1,8 @@
 import json
+import csv
 import sys
 from pathlib import Path
+
 
 """
 Replace FILTER_TXT with the path/name of the .txt file that will hold the filter name/filter term(s) (see format below);
@@ -15,7 +17,9 @@ Line 4: Term...
 etc...
 """
 FILTER_TXT = 'filter_terms.txt'
-DATABASE = 'data.json'
+OUTPUT_JSON = 'json_output.json'
+DATABASE = 'case_summaries.json'
+DATE_MAP = 'date_list.csv'
 
 
 def create_filter_list():
@@ -50,7 +54,7 @@ def check_if_legal(item_list):
 
 def run_filter(item_list, txt_input):
     jout = make_json(item_list, txt_input)
-    filtered = open(FILTER_TXT, 'w+')
+    filtered = open(OUTPUT_JSON, 'w+')
     filtered.write(jout)
     filtered.close()
     check_mult(item_list)
@@ -84,7 +88,23 @@ def check_mult(item_list):
         return
 
 
-create_filter_list()
+def date_list():
+    term_list = []
+    json_dict = json.loads(Path(OUTPUT_JSON).read_text())
+    for i in range(len(json_dict)):
+        for key in json_dict[i]:
+            if key == 'term':
+                term_list.append(json_dict[i][key])
+    create_csv(term_list)
 
+
+def create_csv(term_list):
+    with open(DATE_MAP, 'w') as f:
+        write = csv.writer(f)
+        write.writerow(term_list)
+
+
+create_filter_list()
+date_list()
 
 

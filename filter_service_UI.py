@@ -6,14 +6,14 @@ file that is included, which contains a mock database that has been exported to 
 def create_terms():
     filter_terms = open('filter_terms.txt', 'w+')
     attr = ""
-    print("Which category would you like to filter? Class, Assignment, or Due Date?")
+    print("Which category would you like to filter? Name, Term, or Question?")
     while attr != 'done':
-        attr = input('Enter "Class", "Assignment", or "Due" and press return? (Note: enter \"done\" to continue): ')
+        attr = input('Enter "Case Name", "Term", or "Question" and press return? (Note: enter \"done\" to continue): ')
         if attr == 'done':
             print('continue.....')
             return
-        print('What term(s) would you like to filter for within the category? (Dates should be formatted YYYY/MM/DD)')
-        term = input('Enter the term and press return: ')
+        print('What term(s) would you like to filter for within the category?')
+        term = input('Enter the search criteria and press return: ')
         if term == '':
             print('Invalid Term...Start again!!')
             create_terms()
