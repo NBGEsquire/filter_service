@@ -3,19 +3,8 @@ import csv
 import sys
 from pathlib import Path
 
+"""import sort_year"""
 
-"""
-Replace FILTER_TXT with the path/name of the .txt file that will hold the filter name/filter term(s) (see format below);
-The results of the filter will then be written to FILTER_TXT as well
-Replace DATABASE with the path/name of the .json that contains the database's contents (i.e., the items to be filtered)
-
-The format of the text file that is input should be:
-Line 1: Category to be filtered (or the name of the column within the SQL table)
-Line 2: Term to be filtered within category 
-Line 3: Category...
-Line 4: Term...
-etc...
-"""
 FILTER_TXT = 'filter_terms.txt'
 OUTPUT_JSON = 'json_output.json'
 DATABASE = 'case_summaries.json'

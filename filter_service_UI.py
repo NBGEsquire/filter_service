@@ -3,12 +3,13 @@ This is a UI that was made only to show the user how the filter service works. T
 file that is included, which contains a mock database that has been exported to JSON.
 """
 
+
 def create_terms():
     filter_terms = open('filter_terms.txt', 'w+')
     attr = ""
     print("Which category would you like to filter? Name, Term, or Question?")
     while attr != 'done':
-        attr = input('Enter "Case Name", "Term", or "Question" and press return? (Note: enter \"done\" to continue): ')
+        attr = input('Enter "Case Name", "Term", or "Question" and press return? (Note: enter \"done\" to filter):')
         if attr == 'done':
             print('continue.....')
             return
