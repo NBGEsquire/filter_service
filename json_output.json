@@ -1,0 +1,999 @@
+[
+   {
+      "citation": {
+         "volume": "410",
+         "href": "https://api.oyez.org/case_citation/case_citation/14534",
+         "year": "1973",
+         "page": "113"
+      },
+      "href": "https://api.oyez.org/cases/1971/70-18",
+      "id": 50606,
+      "name": "roe v. wade",
+      "view_count": 37922,
+      "question": "does the constitution embrace a woman's right to terminate her pregnancy by abortion?\n",
+      "term": "1971",
+      "description": "a case in which the court held that a woman's right to an abortion fell within the right to privacy granted in the fourteenth amendment.",
+      "justia_url": "https://supreme.justia.com/cases/federal/us/410/113/",
+      "docket_number": "70-18",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52047",
+            "dates": [
+               61452000
+            ]
+         },
+         {
+            "event": "reargued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51727",
+            "dates": [
+               87627600
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52046",
+            "dates": [
+               96530400
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "409",
+         "href": "https://api.oyez.org/case_citation/case_citation/14767",
+         "year": "1972",
+         "page": "57"
+      },
+      "href": "https://api.oyez.org/cases/1972/71-496",
+      "id": 50839,
+      "name": "ward v. village of monroeville",
+      "view_count": 0,
+      "question": "",
+      "term": "1972",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/409/57/",
+      "docket_number": "71-496",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31035",
+            "dates": [
+               88146000
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31036",
+            "dates": [
+               90568800
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "421",
+         "href": "https://api.oyez.org/case_citation/case_citation/15129",
+         "year": "1975",
+         "page": "132"
+      },
+      "href": "https://api.oyez.org/cases/1974/73-1233",
+      "id": 51201,
+      "name": "national labor relations board v. sears, roebuck & company",
+      "view_count": 0,
+      "question": "",
+      "term": "1974",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/421/132/",
+      "docket_number": "73-1233",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31700",
+            "dates": [
+               158911200
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31701",
+            "dates": [
+               167893200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "420",
+         "href": "https://api.oyez.org/case_citation/case_citation/15149",
+         "year": "1975",
+         "page": "307"
+      },
+      "href": "https://api.oyez.org/cases/1974/73-1446",
+      "id": 51221,
+      "name": "roe v. doe",
+      "view_count": 120,
+      "question": "",
+      "term": "1974",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/420/307/",
+      "docket_number": "73-1446",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31739",
+            "dates": [
+               156578400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31740",
+            "dates": [
+               162021600
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "422",
+         "href": "https://api.oyez.org/case_citation/case_citation/15196",
+         "year": "1975",
+         "page": "391"
+      },
+      "href": "https://api.oyez.org/cases/1974/73-6033",
+      "id": 51268,
+      "name": "roe v. norton",
+      "view_count": 0,
+      "question": "",
+      "term": "1974",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/422/391/",
+      "docket_number": "73-6033",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31826",
+            "dates": [
+               162536400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31827",
+            "dates": [
+               172818000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "426",
+         "href": "https://api.oyez.org/case_citation/case_citation/15277",
+         "year": "1976",
+         "page": "736"
+      },
+      "href": "https://api.oyez.org/cases/1975/74-730",
+      "id": 51349,
+      "name": "roemer v. board of public works of maryland",
+      "view_count": 0,
+      "question": "did a 1971 statute that allocated maryland taxpayer money to private religiously-affiliated schools for \u201cnonsectarian\u201d purposes violate the first amendment?\n",
+      "term": "1975",
+      "description": "a case in which the court held that a maryland statute allocating taxpayer funds to private religiously-affiliated educational institutions for \u201cnonsectarian\u201d purposes did not violate the first amendment. ",
+      "justia_url": "https://supreme.justia.com/cases/federal/us/426/736/",
+      "docket_number": "74-730",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31972",
+            "dates": [
+               193903200
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/31973",
+            "dates": [
+               204181200
+            ]
+         },
+         {
+            "event": "granted",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53636",
+            "dates": [
+               161935200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "432",
+         "href": "https://api.oyez.org/case_citation/case_citation/15530",
+         "year": "1977",
+         "page": "464"
+      },
+      "href": "https://api.oyez.org/cases/1976/75-1440",
+      "id": 51602,
+      "name": "maher v. roe",
+      "view_count": 303,
+      "question": "did the connecticut law violate the equal protection clause of the fourteenth amendment?\n",
+      "term": "1976",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/432/464/",
+      "docket_number": "75-1440",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32418",
+            "dates": [
+               221810400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32419",
+            "dates": [
+               235630800
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "429",
+         "href": "https://api.oyez.org/case_citation/case_citation/15537",
+         "year": "1977",
+         "page": "589"
+      },
+      "href": "https://api.oyez.org/cases/1976/75-839",
+      "id": 51609,
+      "name": "whalen v. roe",
+      "view_count": 97,
+      "question": "did the reporting and record-keeping requirements violate the constitutional right to privacy embraced by the concept of liberty under the fourteenth amendment?\n",
+      "term": "1976",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/429/589/",
+      "docket_number": "75-839",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32431",
+            "dates": [
+               214030800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32432",
+            "dates": [
+               225439200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "436",
+         "href": "https://api.oyez.org/case_citation/case_citation/15746",
+         "year": "1978",
+         "page": "180"
+      },
+      "href": "https://api.oyez.org/cases/1977/76-750",
+      "id": 51818,
+      "name": "sears, roebuck & company v. san diego county district council of carpenters",
+      "view_count": 0,
+      "question": "",
+      "term": "1977",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/436/180/",
+      "docket_number": "76-750",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32799",
+            "dates": [
+               247730400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32800",
+            "dates": [
+               264056400
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "441",
+         "href": "https://api.oyez.org/case_citation/case_citation/15820",
+         "year": "1979",
+         "page": "506"
+      },
+      "href": "https://api.oyez.org/cases/1978/78-488",
+      "id": 51892,
+      "name": "united states v. 564.54 acres of monroe and pike county land",
+      "view_count": 0,
+      "question": "",
+      "term": "1978",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/441/506/",
+      "docket_number": "78-488",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32931",
+            "dates": [
+               291362400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/32932",
+            "dates": [
+               295506000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "449",
+         "href": "https://api.oyez.org/case_citation/case_citation/16075",
+         "year": "1981",
+         "page": "1119"
+      },
+      "href": "https://api.oyez.org/cases/1979/78-1577",
+      "id": 52147,
+      "name": "sears, roebuck and co. v. county of los angeles and city of compton",
+      "view_count": 0,
+      "question": "is the county of los angeles tax an unconstitutional regulation on interstate commerce?\n",
+      "term": "1979",
+      "description": null,
+      "justia_url": null,
+      "docket_number": "78-1577",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/33383",
+            "dates": [
+               316764000
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52579",
+            "dates": [
+               349336800
+            ]
+         },
+         {
+            "event": "granted",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53820",
+            "dates": [
+               307602000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "452",
+         "href": "https://api.oyez.org/case_citation/case_citation/16192",
+         "year": "1981",
+         "page": "549"
+      },
+      "href": "https://api.oyez.org/cases/1980/80-298",
+      "id": 52264,
+      "name": "monroe v. standard oil company",
+      "view_count": 0,
+      "question": "",
+      "term": "1980",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/452/549/",
+      "docket_number": "80-298",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/33598",
+            "dates": [
+               352533600
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/33599",
+            "dates": [
+               361602000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "480",
+         "href": "https://api.oyez.org/case_citation/case_citation/17325",
+         "year": "1987",
+         "page": "23"
+      },
+      "href": "https://api.oyez.org/cases/1986/85-1226",
+      "id": 53397,
+      "name": "commissioner of internal revenue v. groetzinger",
+      "view_count": 0,
+      "question": "does a taxpayer\u2019s gambling activity constitute as a \u201ctrade or business\u201d under the internal revenue code of 1964 and therefore allow a deduction of gambling losses to be deducted from gross income instead of constituting a requirement for the minimum tax?\n",
+      "term": "1986",
+      "description": "a case in which the court held that a taxpayer\u2019s gambling activity does constitute a \u201ctrade or business\u201d under the internal revenue code of 1964. ",
+      "justia_url": "https://supreme.justia.com/cases/federal/us/480/23/",
+      "docket_number": "85-1226",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/35705",
+            "dates": [
+               534405600
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/35706",
+            "dates": [
+               541144800
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "501",
+         "href": "https://api.oyez.org/case_citation/case_citation/17757",
+         "year": "1991",
+         "page": "380"
+      },
+      "href": "https://api.oyez.org/cases/1990/90-757",
+      "id": 53828,
+      "name": "chisom v. roemer",
+      "view_count": 92,
+      "question": "does the 1982 amendment to section 2 of the voting rights act apply to judicial elections?\n",
+      "term": "1990",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/501/380/",
+      "docket_number": "90-757",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36536",
+            "dates": [
+               672296400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36537",
+            "dates": [
+               677394000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "500",
+         "href": "https://api.oyez.org/case_citation/case_citation/17859",
+         "year": "1991",
+         "page": "646"
+      },
+      "href": "https://api.oyez.org/cases/1990/90-952",
+      "id": 53930,
+      "name": "clark v. roemer",
+      "view_count": 0,
+      "question": "",
+      "term": "1990",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/500/646/",
+      "docket_number": "90-952",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36725",
+            "dates": [
+               672296400
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36726",
+            "dates": [
+               675925200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "520",
+         "href": "https://api.oyez.org/case_citation/case_citation/18468",
+         "year": "1997",
+         "page": "781"
+      },
+      "href": "https://api.oyez.org/cases/1996/96-542",
+      "id": 54539,
+      "name": "mcmillian v. monroe county, alabama",
+      "view_count": 0,
+      "question": "is a county liable for constitutional violations committed by the county sheriff in matters of law enforcement?\n",
+      "term": "1996",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/520/781/",
+      "docket_number": "96-542",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37871",
+            "dates": [
+               858664800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37872",
+            "dates": [
+               865227600
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "522",
+         "href": "https://api.oyez.org/case_citation/case_citation/18555",
+         "year": "1997",
+         "page": "34"
+      },
+      "href": "https://api.oyez.org/cases/1997/97-122",
+      "id": 54626,
+      "name": "city of monroe v. united states",
+      "view_count": 0,
+      "question": "is the city of monroe, georgia entitled to conduct elections under a state-law rule requiring majority vote to win, when the u.s. alleged that the city had not sought preclearance of the change from plurality voting as required by the voting rights act of 1965?\n",
+      "term": "1997",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/522/34/",
+      "docket_number": "97-122",
+      "timeline": [
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38033",
+            "dates": [
+               879746400
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "526",
+         "href": "https://api.oyez.org/case_citation/case_citation/18630",
+         "year": "1999",
+         "page": "629"
+      },
+      "href": "https://api.oyez.org/cases/1998/97-843",
+      "id": 54701,
+      "name": "davis v. monroe county board of education",
+      "view_count": 1088,
+      "question": "can a school board be held responsible under title ix of the education amendments of 1972, meant to secure equal access of students to educational benefits and opportunities, for \"student-on-student\" harassment?\n",
+      "term": "1998",
+      "description": "a case in which the court held that a school board can be liable for student-on-student harassment if the board acts with deliberate indifference.",
+      "justia_url": "https://supreme.justia.com/cases/federal/us/526/629/",
+      "docket_number": "97-843",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38168",
+            "dates": [
+               916120800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38169",
+            "dates": [
+               927522000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "526",
+         "href": "https://api.oyez.org/case_citation/case_citation/18668",
+         "year": "1999",
+         "page": "489"
+      },
+      "href": "https://api.oyez.org/cases/1998/98-97",
+      "id": 54739,
+      "name": "saenz v. roe",
+      "view_count": 273,
+      "question": "does a state statute, authorizing states receiving temporary assistance to needy families to pay the benefit amount of another state's tanf to its first year residents, violate the fourteenth amendment's right-to-travel protections?\n",
+      "term": "1998",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/526/489/",
+      "docket_number": "98-97",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38238",
+            "dates": [
+               916207200
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38239",
+            "dates": [
+               926917200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "528",
+         "href": "https://api.oyez.org/case_citation/case_citation/18706",
+         "year": "2000",
+         "page": "470"
+      },
+      "href": "https://api.oyez.org/cases/1999/98-1441",
+      "id": 54777,
+      "name": "roe v. flores-ortega",
+      "view_count": 0,
+      "question": "does trial counsel have a duty to file a notice of appeal following a guilty plea if the defendant has not requested so, but has been informed of his appeal rights?\n",
+      "term": "1999",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/528/470/",
+      "docket_number": "98-1441",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38309",
+            "dates": [
+               941436000
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38310",
+            "dates": [
+               951285600
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "538",
+         "href": "https://api.oyez.org/case_citation/case_citation/18978",
+         "year": "2003",
+         "page": "440"
+      },
+      "href": "https://api.oyez.org/cases/2002/01-1435",
+      "id": 55049,
+      "name": "clackamas gastroenterology associates, p. c. v. wells",
+      "view_count": 0,
+      "question": "should four physicians actively engaged in medical practice as shareholders and directors of a professional corporation be counted as employees under the americans with disabilities act of 1990?\n",
+      "term": "2002",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/538/440/",
+      "docket_number": "01-1435",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38824",
+            "dates": [
+               1046152800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38825",
+            "dates": [
+               1050987600
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "538",
+         "href": "https://api.oyez.org/case_citation/case_citation/18996",
+         "year": "2003",
+         "page": "580"
+      },
+      "href": "https://api.oyez.org/cases/2002/02-69",
+      "id": 55067,
+      "name": "roell v. withrow",
+      "view_count": 0,
+      "question": "can consent, under the federal magistrate act of 1979, be inferred from a party's conduct during litigation?\n",
+      "term": "2002",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/538/580/",
+      "docket_number": "02-69",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38858",
+            "dates": [
+               1046239200
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38859",
+            "dates": [
+               1051592400
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "543",
+         "href": "https://api.oyez.org/case_citation/case_citation/19164",
+         "year": "2004",
+         "page": "77"
+      },
+      "href": "https://api.oyez.org/cases/2004/03-1669",
+      "id": 55236,
+      "name": "city of san diego v. roe",
+      "view_count": 120,
+      "question": "san diego fired john roe from the city police force after he made and sold online a video showing him engaging in sexually explicit acts. did this violate john roe's first amendment right to free speech?\n",
+      "term": "2004",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/543/77/",
+      "docket_number": "03-1669",
+      "timeline": [
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39274",
+            "dates": [
+               1102312800
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "351",
+         "href": "https://api.oyez.org/case_citation/case_citation/24009",
+         "year": "1956",
+         "page": "427"
+      },
+      "href": "https://api.oyez.org/cases/1955/34",
+      "id": 59226,
+      "name": "sears, roebuck & company v. mackey",
+      "view_count": 0,
+      "question": "",
+      "term": "1955",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/351/427/",
+      "docket_number": "34",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/46816",
+            "dates": [
+               -436816800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/46817",
+            "dates": [
+               -427834800
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "365",
+         "href": "https://api.oyez.org/case_citation/case_citation/24905",
+         "year": "1961",
+         "page": "167"
+      },
+      "href": "https://api.oyez.org/cases/1960/39",
+      "id": 60123,
+      "name": "monroe v. pape",
+      "view_count": 224,
+      "question": "1. does a person have a valid cause of action under the civil rights act against police officers when the police officers violate that person's due process?\n2. can municipalities be liable under the civil rights act?\n",
+      "term": "1960",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/365/167/",
+      "docket_number": "39",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/48397",
+            "dates": [
+               -288640800
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/48398",
+            "dates": [
+               -279655200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "371",
+         "href": "https://api.oyez.org/case_citation/case_citation/25334",
+         "year": "1962",
+         "page": "208"
+      },
+      "href": "https://api.oyez.org/cases/1962/75",
+      "id": 60552,
+      "name": "schroeder v. city of new york",
+      "view_count": 0,
+      "question": "",
+      "term": "1962",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/371/208/",
+      "docket_number": "75",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/49113",
+            "dates": [
+               -224964000
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/49114",
+            "dates": [
+               -222199200
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "376",
+         "href": "https://api.oyez.org/case_citation/case_citation/25391",
+         "year": "1964",
+         "page": "225"
+      },
+      "href": "https://api.oyez.org/cases/1963/108",
+      "id": 60609,
+      "name": "sears, roebuck & company v. stiffel company",
+      "view_count": 0,
+      "question": "",
+      "term": "1963",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/376/225/",
+      "docket_number": "108",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/49192",
+            "dates": [
+               -188071200
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/49193",
+            "dates": [
+               -183492000
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "391",
+         "href": "https://api.oyez.org/case_citation/case_citation/26338",
+         "year": "1968",
+         "page": "450"
+      },
+      "href": "https://api.oyez.org/cases/1967/740",
+      "id": 61556,
+      "name": "monroe v. board of commissioners of the city of jackson",
+      "view_count": 0,
+      "question": "",
+      "term": "1967",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/391/450/",
+      "docket_number": "740",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/50684",
+            "dates": [
+               -55101600
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/50685",
+            "dates": [
+               -50439600
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": "397",
+         "href": "https://api.oyez.org/case_citation/case_citation/26710",
+         "year": "1970",
+         "page": "655"
+      },
+      "href": "https://api.oyez.org/cases/1969/476",
+      "id": 61928,
+      "name": "sears, roebuck & company v. carpet, linoleum, soft tile & resilient floor covering layers, local union no. 419, afl-cio",
+      "view_count": 0,
+      "question": "",
+      "term": "1969",
+      "description": null,
+      "justia_url": "https://supreme.justia.com/cases/federal/us/397/655/",
+      "docket_number": "476",
+      "timeline": [
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51252",
+            "dates": [
+               5292000
+            ]
+         },
+         {
+            "event": "decided",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51253",
+            "dates": [
+               10040400
+            ]
+         }
+      ]
+   },
+   {
+      "citation": {
+         "volume": null,
+         "href": "https://api.oyez.org/case_citation/case_citation/27494",
+         "year": null,
+         "page": null
+      },
+      "href": "https://api.oyez.org/cases/2016/16-605",
+      "id": 62800,
+      "name": "town of chester v. laroe estates, inc.",
+      "view_count": 194,
+      "question": "according to article iii of the u.s. constitution, must intervenors to a lawsuit establish standing on their own, or may they join so long as there is a valid case or controversy between the named parties?\n",
+      "term": "2016",
+      "description": "a case in which the court will decide if article iii of the u.s. constitution requires intervenors to a lawsuit to establish standing on their own, or if they may join so long as there is a valid case or controversy between the named parties.",
+      "justia_url": null,
+      "docket_number": "16-605",
+      "timeline": [
+         {
+            "event": "granted",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53952",
+            "dates": [
+               1484287200
+            ]
+         },
+         {
+            "event": "argued",
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54019",
+            "dates": [
+               1492405200
+            ]
+         }
+      ]
+   }
+]
